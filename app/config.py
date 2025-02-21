@@ -1,0 +1,9 @@
+PIPE_SERVER = "PIPE_SERVER"
+
+PIPE_CLIENT = "PIPE_CLIENT"
+
+PIPE_NAME_MAIN = r'\\.\pipe\xoxMainComPipe'
+
+CLI = "CLI"
+
+MLP = "MLP"
